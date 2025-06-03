@@ -1,6 +1,6 @@
 # Tóm tắt Patents
-Có [18 patents của Samsung Electronics](https://patents.google.com/?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&oq=inventor:(Jiwon+Jeong)+inventor:(Wonwoo+Lee)+inventor:(Gunill+LEE)+inventor:(Deokho+Kim)+assignee:(Samsung+Electronics+Co.%2cLtd.)&sort=new
-) được viết bởi: Jiwon Jeong, Wonwoo Lee, Gunill LEE hoặc Deokho Kim chia thành 7 nhóm chủ đề.
+Có [18 patents](https://patents.google.com/?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&oq=inventor:(Jiwon+Jeong)+inventor:(Wonwoo+Lee)+inventor:(Gunill+LEE)+inventor:(Deokho+Kim)+assignee:(Samsung+Electronics+Co.%2cLtd.)&sort=new
+) của Samsung Electronics được viết bởi: Jiwon Jeong, Wonwoo Lee, Gunill LEE hoặc Deokho Kim chia thành 7 nhóm chủ đề.
 
 
 ### 1. **Avatar và cá nhân hóa dựa trên khuôn mặt / ngữ cảnh**
