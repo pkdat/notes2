@@ -1,6 +1,6 @@
-# Tóm tắt theo chủ đề
+# Tóm tắt Patents
 Có [18 patents của Samsung Electronics](https://patents.google.com/?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&oq=inventor:(Jiwon+Jeong)+inventor:(Wonwoo+Lee)+inventor:(Gunill+LEE)+inventor:(Deokho+Kim)+assignee:(Samsung+Electronics+Co.%2cLtd.)&sort=new
-) được viết bởi: Jiwon Jeong, Wonwoo Lee, Gunill LEE hoặc Deokho Kim
+) được viết bởi: Jiwon Jeong, Wonwoo Lee, Gunill LEE hoặc Deokho Kim chia thành 7 nhóm chủ đề.
 
 
 ### 1. **Avatar và cá nhân hóa dựa trên khuôn mặt / ngữ cảnh**
@@ -15,7 +15,7 @@ Thiết bị điện tử này có khả năng tạo và cung cấp một avatar
 
 Thiết bị điện tử này cung cấp avatar cho người dùng dựa trên thông tin ngữ cảnh xung quanh, chẳng hạn như vị trí, thời gian, hoạt động hoặc trạng thái của người dùng. Thiết bị thu thập và phân tích các dữ liệu ngữ cảnh để tạo hoặc điều chỉnh avatar sao cho phù hợp và thể hiện đúng tình huống hiện tại. Phương pháp vận hành bao gồm việc thu thập thông tin ngữ cảnh, xử lý thông tin này để xác định đặc điểm avatar cần hiển thị, và cập nhật avatar theo thời gian thực nhằm mang lại trải nghiệm tương tác cá nhân hóa và linh hoạt hơn.
 
-### 2. **Thiết bị thực tế tăng cường (AR), thực tế ảo (VR) và các thiết bị hiển thị đeo trên đầu
+### 2. **Thiết bị thực tế tăng cường (AR), thực tế ảo (VR) và các thiết bị hiển thị đeo trên đầu**
 
 [Augmented reality device for performing payment by using gaze information of …](https://patents.google.com/patent/US20240420143A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a71203a4f8%3A99d%3Adc5aa590)
 #### 2.1 **Thiết bị thực tế tăng cường thực hiện thanh toán bằng cách sử dụng thông tin ánh mắt người dùng và phương pháp vận hành thiết bị**
