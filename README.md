@@ -243,77 +243,81 @@ Tóm lại, sáng chế này cung cấp một giải pháp để **xác định 
 
 #### 4.1 Thiết bị điện tử và phương pháp vận hành
 
-Bằng sáng chế mô tả một thiết bị điện tử đeo trên người cùng phương pháp vận hành của nó.
+Bằng sáng chế US20230060453A1 mô tả một **thiết bị điện tử đeo trên người** cùng **phương pháp vận hành** của nó.
 
 Nội dung chính:
 
-Thiết bị có module camera có khả năng thay đổi hướng chụp hình.
-
-Có cảm biến chuyển động để thu thập thông tin chuyển động của thiết bị.
-
-Có cảm biến theo dõi ánh mắt (eye-tracking) để thu thập thông tin về hướng nhìn của người dùng.
-
-Bộ nhớ lưu trữ các chỉ dẫn và một bộ xử lý thực hiện các chỉ dẫn đó.
+- Thiết bị có **module camera** có khả năng thay đổi hướng chụp hình.
+    
+- Có **cảm biến chuyển động** để thu thập thông tin chuyển động của thiết bị.
+    
+- Có **cảm biến theo dõi ánh mắt (eye-tracking)** để thu thập thông tin về hướng nhìn của người dùng.
+    
+- Bộ nhớ lưu trữ các chỉ dẫn và một bộ xử lý thực hiện các chỉ dẫn đó.
+    
 
 Quy trình hoạt động:
 
-Bộ xử lý dựa trên thông tin về hướng nhìn của người dùng để xác định hướng chụp hình phù hợp.
+- Bộ xử lý dựa trên thông tin về hướng nhìn của người dùng để xác định hướng chụp hình phù hợp.
+    
+- Dựa trên dữ liệu chuyển động của thiết bị, bộ xử lý xác định cách điều khiển camera để thay đổi hướng chụp, nhằm thu được hình ảnh không bị rung hoặc mờ.
+    
+- Camera được điều khiển thay đổi hướng chụp theo các thông tin điều khiển đã xác định.
+    
+- Cuối cùng, thiết bị thu nhận hình ảnh dựa trên hướng chụp mới được điều chỉnh.
+    
 
-Dựa trên dữ liệu chuyển động của thiết bị, bộ xử lý xác định cách điều khiển camera để thay đổi hướng chụp, nhằm thu được hình ảnh không bị rung hoặc mờ.
-
-Camera được điều khiển thay đổi hướng chụp theo các thông tin điều khiển đã xác định.
-
-Cuối cùng, thiết bị thu nhận hình ảnh dựa trên hướng chụp mới được điều chỉnh.
-
-Tóm lại: Đây là thiết bị đeo thông minh có khả năng tự động điều chỉnh hướng camera dựa trên ánh mắt người dùng và chuyển động thiết bị để thu được hình ảnh ổn định, không rung.
+**Tóm lại:** Đây là thiết bị đeo thông minh có khả năng tự động điều chỉnh hướng camera dựa trên ánh mắt người dùng và chuyển động thiết bị để thu được hình ảnh ổn định, không rung.
 
 [Electronic device and operation method thereof](https://patents.google.com/patent/US20230060453A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a6db0c89d8%3A91f%3A91b80837)
 
 #### 4.2 Thiết bị điện tử và phương pháp điều khiển
 
-Bằng sáng chế mô tả một thiết bị điện tử và phương pháp điều khiển thiết bị đó nhằm nâng cao hiệu quả vận hành và trải nghiệm người dùng.
+Bằng sáng chế EP3837665B1 mô tả một **thiết bị điện tử** và **phương pháp điều khiển** thiết bị đó nhằm nâng cao hiệu quả vận hành và trải nghiệm người dùng.
 
 Nội dung chính gồm:
 
-Thiết bị điện tử có khả năng thu thập dữ liệu từ các cảm biến và tương tác với người dùng qua các giao diện đầu vào/đầu ra.
+- **Thiết bị điện tử** có khả năng thu thập dữ liệu từ các cảm biến và tương tác với người dùng qua các giao diện đầu vào/đầu ra.
+    
+- **Phương pháp điều khiển** thiết bị bao gồm các bước xử lý dữ liệu cảm biến, xác định trạng thái hoặc ngữ cảnh sử dụng, và điều chỉnh hành vi thiết bị phù hợp.
+    
+- Có thể bao gồm việc tự động chuyển đổi chế độ hoạt động dựa trên điều kiện môi trường hoặc hành vi người dùng, giúp thiết bị hoạt động hiệu quả và tiết kiệm năng lượng hơn.
+    
+- Thiết bị có thể áp dụng cho các loại thiết bị điện tử cá nhân như điện thoại, máy tính bảng, thiết bị đeo, hoặc các thiết bị thông minh khác.
+    
 
-Phương pháp điều khiển thiết bị bao gồm các bước xử lý dữ liệu cảm biến, xác định trạng thái hoặc ngữ cảnh sử dụng, và điều chỉnh hành vi thiết bị phù hợp.
-
-Có thể bao gồm việc tự động chuyển đổi chế độ hoạt động dựa trên điều kiện môi trường hoặc hành vi người dùng, giúp thiết bị hoạt động hiệu quả và tiết kiệm năng lượng hơn.
-
-Thiết bị có thể áp dụng cho các loại thiết bị điện tử cá nhân như điện thoại, máy tính bảng, thiết bị đeo, hoặc các thiết bị thông minh khác.
-
-Tóm lại: Bằng sáng chế này trình bày một giải pháp về thiết bị điện tử với phương pháp điều khiển thông minh, tự động thích ứng theo ngữ cảnh và yêu cầu sử dụng nhằm cải thiện trải nghiệm và hiệu suất hoạt động. Nếu bạn có phần mô tả chi tiết hơn, mình có thể giúp tóm tắt cụ thể hơn.
+**Tóm lại:** Bằng sáng chế này trình bày một giải pháp về thiết bị điện tử với phương pháp điều khiển thông minh, tự động thích ứng theo ngữ cảnh và yêu cầu sử dụng nhằm cải thiện trải nghiệm và hiệu suất hoạt động. Nếu bạn có phần mô tả chi tiết hơn, mình có thể giúp tóm tắt cụ thể hơn.
 
 [Electronic apparatus and control method thereof](https://patents.google.com/patent/EP3837665B1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a7124be128%3Aa65%3A5c1456ea)
 
 #### 4.3 Thiết bị điện tử và phương pháp điều khiển
 
-Bằng sáng chế WO2020036343A1 mô tả một thiết bị điện tử và phương pháp điều khiển thiết bị đó nhằm tối ưu vị trí chụp hình của camera.
+Bằng sáng chế WO2020036343A1 mô tả một **thiết bị điện tử** và **phương pháp điều khiển** thiết bị đó nhằm tối ưu vị trí chụp hình của camera.
 
 Nội dung chính:
 
-Thiết bị bao gồm:
+- Thiết bị bao gồm:
+    
+    - **Camera** để chụp ảnh người dùng,
+        
+    - **Bộ nhớ lưu trữ** dữ liệu tham chiếu,
+        
+    - **Màn hình hiển thị**,
+        
+    - **Bộ xử lý** điều khiển hoạt động.
+        
+- Bộ xử lý thực hiện:
+    
+    - Xác định **tọa độ 3D** của vùng mặt người dùng trong ảnh do camera chụp,
+        
+    - So sánh tọa độ này với một **tọa độ 3D tham chiếu** được lưu trữ,
+        
+    - Tính toán thông tin điều chỉnh vị trí chụp của camera dựa trên sự khác biệt giữa hai tọa độ,
+        
+    - Hiển thị trên màn hình giao diện đồ họa (GUI) hướng dẫn người dùng điều chỉnh vị trí camera sao cho phù hợp.
+        
 
-Camera để chụp ảnh người dùng,
-
-Bộ nhớ lưu trữ dữ liệu tham chiếu,
-
-Màn hình hiển thị,
-
-Bộ xử lý điều khiển hoạt động.
-
-Bộ xử lý thực hiện:
-
-Xác định tọa độ 3D của vùng mặt người dùng trong ảnh do camera chụp,
-
-So sánh tọa độ này với một tọa độ 3D tham chiếu được lưu trữ,
-
-Tính toán thông tin điều chỉnh vị trí chụp của camera dựa trên sự khác biệt giữa hai tọa độ,
-
-Hiển thị trên màn hình giao diện đồ họa (GUI) hướng dẫn người dùng điều chỉnh vị trí camera sao cho phù hợp.
-
-Tóm lại: Thiết bị giúp người dùng dễ dàng điều chỉnh vị trí camera để tối ưu hóa việc chụp hình, bằng cách phân tích tọa độ 3D khuôn mặt và cung cấp hướng dẫn trực quan trên màn hình.
+**Tóm lại:** Thiết bị giúp người dùng dễ dàng điều chỉnh vị trí camera để tối ưu hóa việc chụp hình, bằng cách phân tích tọa độ 3D khuôn mặt và cung cấp hướng dẫn trực quan trên màn hình.
 
 [Electronic device and control method thereof](https://patents.google.com/patent/WO2020036343A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a659de0af8%3A822%3A1142604f)
 ### 5. Thiết bị bán dẫn và phương pháp chế tạo
@@ -425,8 +429,3 @@ Nội dung chính thường bao gồm:
 Tóm lại, sáng chế này đề cập đến một **thiết bị ngăn kéo được thiết kế để vận hành êm ái, an toàn và tiện lợi**, nâng cao trải nghiệm sử dụng đồ nội thất hoặc thiết bị lưu trữ.
 
 [Drawer apparatus](https://patents.google.com/patent/US20240410591A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a646dea3b8%3A584%3A41ca2114)
-
-
-
-
-
