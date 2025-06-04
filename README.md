@@ -243,82 +243,77 @@ Tóm lại, sáng chế này cung cấp một giải pháp để **xác định 
 
 #### 4.1 Thiết bị điện tử và phương pháp vận hành
 
-Bằng sáng chế này mô tả một **thiết bị điện tử** và **phương pháp vận hành** của thiết bị đó. Mặc dù tiêu đề mang tính tổng quát, nội dung thường mô tả một thiết bị có khả năng xử lý thông tin, tương tác với người dùng, và thực hiện một hoặc nhiều chức năng thông minh.
+Bằng sáng chế mô tả một thiết bị điện tử đeo trên người cùng phương pháp vận hành của nó.
 
-Các đặc điểm chính có thể bao gồm:
+Nội dung chính:
 
-1. **Cấu trúc phần cứng:** Thiết bị gồm các thành phần như bộ xử lý (CPU), bộ nhớ, màn hình hiển thị, cảm biến (như cảm biến chuyển động, ánh sáng, hoặc sinh trắc học), và các mô-đun kết nối (Wi-Fi, Bluetooth, v.v.).
-    
-2. **Chức năng phần mềm:** Thiết bị có thể chạy các chương trình máy tính để thực hiện các tác vụ như nhận diện người dùng, phân tích dữ liệu đầu vào, hoặc cung cấp phản hồi tùy theo ngữ cảnh.
-    
-3. **Phương pháp vận hành:** Bao gồm các bước thu thập dữ liệu (từ người dùng hoặc môi trường), xử lý dữ liệu thông qua thuật toán, và phản hồi thông qua hiển thị, âm thanh, rung, hoặc hành động khác.
-    
-4. **Khả năng tương tác:** Thiết bị hỗ trợ giao diện người dùng như cảm ứng, giọng nói, cử chỉ hoặc điều khiển từ xa, và có thể tích hợp trí tuệ nhân tạo để phản ứng thông minh theo hành vi người dùng.
-    
+Thiết bị có module camera có khả năng thay đổi hướng chụp hình.
 
-**Tóm lại:** Đây là một thiết bị điện tử thông minh có thể **thu thập dữ liệu, xử lý thông tin và tương tác với người dùng hoặc hệ thống khác**, với khả năng mở rộng cho nhiều ứng dụng như thiết bị đeo, điện thoại, hệ thống nhà thông minh hoặc thiết bị AR/VR tùy theo ngữ cảnh cụ thể của sáng chế. Nếu bạn có phần mô tả chi tiết hơn, mình có thể tóm tắt sát nội dung hơn.
+Có cảm biến chuyển động để thu thập thông tin chuyển động của thiết bị.
+
+Có cảm biến theo dõi ánh mắt (eye-tracking) để thu thập thông tin về hướng nhìn của người dùng.
+
+Bộ nhớ lưu trữ các chỉ dẫn và một bộ xử lý thực hiện các chỉ dẫn đó.
+
+Quy trình hoạt động:
+
+Bộ xử lý dựa trên thông tin về hướng nhìn của người dùng để xác định hướng chụp hình phù hợp.
+
+Dựa trên dữ liệu chuyển động của thiết bị, bộ xử lý xác định cách điều khiển camera để thay đổi hướng chụp, nhằm thu được hình ảnh không bị rung hoặc mờ.
+
+Camera được điều khiển thay đổi hướng chụp theo các thông tin điều khiển đã xác định.
+
+Cuối cùng, thiết bị thu nhận hình ảnh dựa trên hướng chụp mới được điều chỉnh.
+
+Tóm lại: Đây là thiết bị đeo thông minh có khả năng tự động điều chỉnh hướng camera dựa trên ánh mắt người dùng và chuyển động thiết bị để thu được hình ảnh ổn định, không rung.
 
 [Electronic device and operation method thereof](https://patents.google.com/patent/US20230060453A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a6db0c89d8%3A91f%3A91b80837)
 
 #### 4.2 Thiết bị điện tử và phương pháp điều khiển
 
-Bằng sáng chế này mô tả một **thiết bị điện tử** và **phương pháp điều khiển** thiết bị đó. Đây là một dạng thiết bị thông minh có khả năng thực hiện nhiều chức năng nhờ vào việc điều khiển linh hoạt các phần cứng và phần mềm tích hợp.
+Bằng sáng chế mô tả một thiết bị điện tử và phương pháp điều khiển thiết bị đó nhằm nâng cao hiệu quả vận hành và trải nghiệm người dùng.
 
-Các đặc điểm chính thường bao gồm:
+Nội dung chính gồm:
 
-1. **Cấu hình thiết bị:** Gồm các thành phần như bộ xử lý (CPU), bộ nhớ, giao diện đầu vào/đầu ra (màn hình, loa, micro, cảm ứng...), và các mô-đun kết nối (Wi-Fi, Bluetooth, NFC...).
-    
-2. **Phương pháp điều khiển:** Mô tả quy trình thiết bị thu thập dữ liệu đầu vào (từ người dùng hoặc cảm biến), sau đó **xử lý và phản hồi thông minh** thông qua các hành động cụ thể (hiển thị, phát âm thanh, gửi tín hiệu...).
-    
-3. **Tính thích ứng:** Thiết bị có thể điều chỉnh hoạt động dựa trên **ngữ cảnh sử dụng**, như vị trí, thời gian, trạng thái người dùng, hoặc điều kiện môi trường.
-    
-4. **Tự động hóa và tối ưu hóa:** Có thể bao gồm khả năng học thói quen người dùng, hoặc vận hành dựa trên các điều kiện định trước nhằm **nâng cao trải nghiệm người dùng và tiết kiệm năng lượng**.
-    
+Thiết bị điện tử có khả năng thu thập dữ liệu từ các cảm biến và tương tác với người dùng qua các giao diện đầu vào/đầu ra.
 
-**Tóm lại:** Bằng sáng chế đề cập đến một thiết bị điện tử có thể **thu thập, xử lý thông tin và điều khiển hoạt động một cách thông minh**, theo một phương pháp điều khiển hiệu quả, thích ứng với nhu cầu người dùng và môi trường hoạt động. Nếu bạn có đoạn mô tả chi tiết hơn, mình có thể tóm gọn sát nội dung cụ thể hơn.
+Phương pháp điều khiển thiết bị bao gồm các bước xử lý dữ liệu cảm biến, xác định trạng thái hoặc ngữ cảnh sử dụng, và điều chỉnh hành vi thiết bị phù hợp.
+
+Có thể bao gồm việc tự động chuyển đổi chế độ hoạt động dựa trên điều kiện môi trường hoặc hành vi người dùng, giúp thiết bị hoạt động hiệu quả và tiết kiệm năng lượng hơn.
+
+Thiết bị có thể áp dụng cho các loại thiết bị điện tử cá nhân như điện thoại, máy tính bảng, thiết bị đeo, hoặc các thiết bị thông minh khác.
+
+Tóm lại: Bằng sáng chế này trình bày một giải pháp về thiết bị điện tử với phương pháp điều khiển thông minh, tự động thích ứng theo ngữ cảnh và yêu cầu sử dụng nhằm cải thiện trải nghiệm và hiệu suất hoạt động. Nếu bạn có phần mô tả chi tiết hơn, mình có thể giúp tóm tắt cụ thể hơn.
 
 [Electronic apparatus and control method thereof](https://patents.google.com/patent/EP3837665B1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a7124be128%3Aa65%3A5c1456ea)
 
 #### 4.3 Thiết bị điện tử và phương pháp điều khiển
 
-Bằng sáng chế này mô tả một **thiết bị điện tử** và **phương pháp điều khiển** thiết bị đó. Dù tiêu đề chung chung, nội dung sáng chế thường tập trung vào cách thiết bị thực hiện các chức năng cụ thể một cách hiệu quả và thông minh.
+Bằng sáng chế WO2020036343A1 mô tả một thiết bị điện tử và phương pháp điều khiển thiết bị đó nhằm tối ưu vị trí chụp hình của camera.
 
-### Các điểm chính có thể bao gồm:
+Nội dung chính:
 
-1. **Cấu trúc phần cứng:**  
-    Thiết bị gồm các thành phần cơ bản như:
-    
-    - Bộ xử lý (CPU hoặc SoC)
-        
-    - Bộ nhớ (RAM, ROM, bộ nhớ lưu trữ)
-        
-    - Giao diện người dùng (màn hình cảm ứng, nút bấm, micro, loa...)
-        
-    - Cảm biến (chuyển động, ánh sáng, sinh trắc học...)
-        
-    - Mô-đun kết nối (Wi-Fi, Bluetooth, 5G...)
-        
-2. **Phương pháp điều khiển:**  
-    Thiết bị thực hiện:
-    
-    - Nhận dữ liệu đầu vào (từ người dùng hoặc cảm biến)
-        
-    - Xử lý dữ liệu bằng phần mềm hoặc AI
-        
-    - Đưa ra phản hồi hoặc hành động như hiển thị, âm thanh, điều khiển thiết bị khác
-        
-3. **Khả năng thích ứng và học tập:**  
-    Một số thiết bị có thể:
-    
-    - Tự động thay đổi chế độ hoạt động dựa trên môi trường hoặc thói quen người dùng
-        
-    - Tối ưu hóa tài nguyên (năng lượng, hiệu năng)
-        
-4. **Ứng dụng:**  
-    Thiết bị có thể là điện thoại, máy tính bảng, TV thông minh, thiết bị IoT, kính AR/VR hoặc thiết bị đeo.
-    
+Thiết bị bao gồm:
 
-**Tóm lại:** Đây là sáng chế về một thiết bị điện tử có khả năng **thu thập, xử lý và phản hồi dữ liệu** một cách thông minh, cùng với phương pháp điều khiển giúp thiết bị **hoạt động linh hoạt, tối ưu và tương tác hiệu quả với người dùng hoặc môi trường**. Nếu bạn cung cấp phần _abstract_ hoặc _claims_, mình có thể tóm tắt chi tiết và chính xác hơn nữa.
+Camera để chụp ảnh người dùng,
+
+Bộ nhớ lưu trữ dữ liệu tham chiếu,
+
+Màn hình hiển thị,
+
+Bộ xử lý điều khiển hoạt động.
+
+Bộ xử lý thực hiện:
+
+Xác định tọa độ 3D của vùng mặt người dùng trong ảnh do camera chụp,
+
+So sánh tọa độ này với một tọa độ 3D tham chiếu được lưu trữ,
+
+Tính toán thông tin điều chỉnh vị trí chụp của camera dựa trên sự khác biệt giữa hai tọa độ,
+
+Hiển thị trên màn hình giao diện đồ họa (GUI) hướng dẫn người dùng điều chỉnh vị trí camera sao cho phù hợp.
+
+Tóm lại: Thiết bị giúp người dùng dễ dàng điều chỉnh vị trí camera để tối ưu hóa việc chụp hình, bằng cách phân tích tọa độ 3D khuôn mặt và cung cấp hướng dẫn trực quan trên màn hình.
 
 [Electronic device and control method thereof](https://patents.google.com/patent/WO2020036343A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a659de0af8%3A822%3A1142604f)
 ### 5. Thiết bị bán dẫn và phương pháp chế tạo
