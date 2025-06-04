@@ -79,6 +79,7 @@ Cụ thể, thiết bị bao gồm:
     
 
 Tóm lại, thiết bị AR này cho phép **nhận diện và theo dõi chính xác cử động bàn tay của người dùng**, phục vụ cho việc điều khiển hoặc tương tác với nội dung trong không gian ảo một cách trực quan và chính xác.
+
 [Augmented reality device for obtaining position information of joints of user's hand and operating method thereof](https://patents.google.com/patent/US20240265641A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a7122342b8%3A9f0%3A80dab2d)
 
 #### 2.3 Thiết bị kính thực tế tăng cường (AR Glass) và phương pháp vận hành
@@ -99,6 +100,7 @@ Cụ thể, thiết bị kính AR bao gồm:
     
 
 Tóm lại, thiết bị kính AR này được thiết kế để **hiển thị thông tin ảo trong môi trường thực một cách thông minh**, đồng thời **tương tác linh hoạt** với người dùng thông qua các cảm biến và công nghệ điều khiển tiên tiến.
+
 [AR glass apparatus and operating method thereof](https://patents.google.com/patent/US11490022B2/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a712444008%3Aa48%3Ac9bea4b)
 
 #### 2.4 Thiết bị hiển thị gắn trên đầu và phương pháp vận hành
@@ -121,6 +123,7 @@ Thiết bị bao gồm:
     
 
 Tóm lại, thiết bị HMD này cho phép người dùng **trải nghiệm nội dung ảo hoặc tăng cường theo góc nhìn cá nhân**, với khả năng **theo dõi đầu và tương tác thông minh**, phục vụ trong các lĩnh vực như giải trí, đào tạo, trò chơi, hoặc điều khiển từ xa.
+
 [Head-mounted display device and operating method of the same](https://patents.google.com/patent/US20240012474A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a711ccca00%3A96f%3A4d343ded)
 
 #### 2.5 Thiết bị hiển thị gắn trên đầu và phương pháp vận hành
@@ -143,6 +146,7 @@ Cụ thể, thiết bị bao gồm các thành phần và chức năng chính nh
     
 
 **Tóm lại:** Thiết bị HMD này cho phép người dùng **trải nghiệm nội dung số theo góc nhìn cá nhân**, có khả năng **theo dõi chuyển động đầu và tương tác thông minh**, phục vụ cho nhiều mục đích như giải trí, học tập, làm việc từ xa, hoặc hỗ trợ kỹ thuật.
+
 [HEAD MOUNTED DISPLAY DEVICE AND METHOD OF OPERATION THEREOF](https://patents.google.com/patent/EP3931676A4/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a6d9d86ed8%3A84d%3Ab039a939)
 ### 3. Thu thập và xử lý dữ liệu hình ảnh chuyển động tay, khung xương 3D, và tạo ảnh 3D
 
@@ -163,6 +167,7 @@ Cụ thể, thiết bị bao gồm:
     
 
 Tóm lại, thiết bị này giúp **theo dõi và nhận biết chuyển động bàn tay người dùng qua hình ảnh một cách chính xác**, phục vụ cho các ứng dụng tương tác tự nhiên trong môi trường thực tế ảo hoặc thực tế tăng cường.
+
 [Electronic device for obtaining image data relating to hand motion and method for operating same](https://patents.google.com/patent/US20240265683A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a7120e18c0%3A9b5%3Ab9e19349)
 
 #### 3.2 Phương pháp và thiết bị tạo ảnh ba chiều sử dụng nhiều camera
@@ -183,6 +188,7 @@ Nội dung chính bao gồm:
     
 
 Tóm lại, đây là một giải pháp tạo ảnh 3D chính xác và hiệu quả bằng cách sử dụng nhiều camera và kỹ thuật xử lý hình ảnh đa chiều.
+
 [Method and device for generating three-dimensional image by using plurality of cameras](https://patents.google.com/patent/US20230222727A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a6dad5e1a8%3A8bd%3A689c0d4a)
 
 #### 3.3 Thiết bị điện tử và phương pháp thu nhận dữ liệu khung xương 3D của bàn tay người dùng qua nhiều camera
@@ -203,6 +209,7 @@ Nội dung chính bao gồm:
     
 
 Tóm lại, đây là hệ thống giúp **nhận dạng và mô hình hóa bộ khung xương 3D của bàn tay người dùng qua nhiều camera**, phục vụ cho các tương tác tự nhiên và chính xác trong môi trường số.
+
 [Electronic device and method for obtaining three-dimensional (3d) skeleton data of user's hand photographed using plurality of cameras](https://patents.google.com/patent/US20230186512A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a7122e79d0%3Aa08%3A718c988c)
 
 #### 3.4 Thiết bị và phương pháp đo khoảng cách không gian bằng camera
@@ -229,6 +236,7 @@ Nội dung chính gồm:
     
 
 Tóm lại, sáng chế này cung cấp một giải pháp để **xác định và mô hình hóa độ sâu không gian bằng camera**, hỗ trợ các ứng dụng trong thực tế ảo, thực tế tăng cường, robot, hoặc các hệ thống cảm biến môi trường.
+
 [Device and method for acquiring depth of space by using camera](https://patents.google.com/patent/US12294687B2/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a659c49f28%3A7da%3Ab945f3ad)
 ### 4. Thiết bị điện tử và phương pháp vận hành, điều khiển chung
 
@@ -249,6 +257,7 @@ Các đặc điểm chính có thể bao gồm:
     
 
 **Tóm lại:** Đây là một thiết bị điện tử thông minh có thể **thu thập dữ liệu, xử lý thông tin và tương tác với người dùng hoặc hệ thống khác**, với khả năng mở rộng cho nhiều ứng dụng như thiết bị đeo, điện thoại, hệ thống nhà thông minh hoặc thiết bị AR/VR tùy theo ngữ cảnh cụ thể của sáng chế. Nếu bạn có phần mô tả chi tiết hơn, mình có thể tóm tắt sát nội dung hơn.
+
 [Electronic device and operation method thereof](https://patents.google.com/patent/US20230060453A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a6db0c89d8%3A91f%3A91b80837)
 
 #### 4.2 Thiết bị điện tử và phương pháp điều khiển
@@ -267,6 +276,7 @@ Các đặc điểm chính thường bao gồm:
     
 
 **Tóm lại:** Bằng sáng chế đề cập đến một thiết bị điện tử có thể **thu thập, xử lý thông tin và điều khiển hoạt động một cách thông minh**, theo một phương pháp điều khiển hiệu quả, thích ứng với nhu cầu người dùng và môi trường hoạt động. Nếu bạn có đoạn mô tả chi tiết hơn, mình có thể tóm gọn sát nội dung cụ thể hơn.
+
 [Electronic apparatus and control method thereof](https://patents.google.com/patent/EP3837665B1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a7124be128%3Aa65%3A5c1456ea)
 
 #### 4.3 Thiết bị điện tử và phương pháp điều khiển
@@ -309,6 +319,7 @@ Bằng sáng chế này mô tả một **thiết bị điện tử** và **phư�
     
 
 **Tóm lại:** Đây là sáng chế về một thiết bị điện tử có khả năng **thu thập, xử lý và phản hồi dữ liệu** một cách thông minh, cùng với phương pháp điều khiển giúp thiết bị **hoạt động linh hoạt, tối ưu và tương tác hiệu quả với người dùng hoặc môi trường**. Nếu bạn cung cấp phần _abstract_ hoặc _claims_, mình có thể tóm tắt chi tiết và chính xác hơn nữa.
+
 [Electronic device and control method thereof](https://patents.google.com/patent/WO2020036343A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a659de0af8%3A822%3A1142604f)
 ### 5. Thiết bị bán dẫn và phương pháp chế tạo
 
@@ -367,6 +378,7 @@ Nội dung chính bao gồm:
         
 
 **Tóm lại:** Bằng sáng chế đề cập đến một thiết bị bán dẫn cùng với quy trình sản xuất tối ưu, giúp nâng cao chất lượng và hiệu năng của linh kiện điện tử.
+
 [Semiconductor device and method for manufacturing the same](https://patents.google.com/patent/US20160163637A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a712c77db0%3Aa82%3A6aa7ef36)
 ### 6. Thiết bị tự động chụp ảnh/video
 
@@ -390,6 +402,7 @@ Nội dung chính bao gồm:
     
 
 Tóm lại, thiết bị này giúp người dùng **ghi lại những khoảnh khắc quan trọng một cách tự động và tiện lợi**, tối ưu trải nghiệm chụp ảnh/video mà không cần thao tác thủ công liên tục.
+
 [Device for automatically capturing photo or video about specific moment, and operation method thereof](https://patents.google.com/patent/US11977981B2/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a7123a60b0%3Aa34%3Ab0d008de)
 ### 7. Thiết bị cơ khí (ngăn kéo)
 
