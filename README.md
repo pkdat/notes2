@@ -320,9 +320,33 @@ Nội dung chính:
 **Tóm lại:** Thiết bị giúp người dùng dễ dàng điều chỉnh vị trí camera để tối ưu hóa việc chụp hình, bằng cách phân tích tọa độ 3D khuôn mặt và cung cấp hướng dẫn trực quan trên màn hình.
 
 [Electronic device and control method thereof](https://patents.google.com/patent/WO2020036343A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a659de0af8%3A822%3A1142604f)
-### 5. Thiết bị bán dẫn và phương pháp chế tạo
+### 5. Thiết bị tự động chụp ảnh/video
 
-#### 5.1 Thiết bị bán dẫn và phương pháp chế tạo thiết bị bán dẫn
+#### 5.1 Thiết bị tự động chụp ảnh hoặc quay video tại khoảnh khắc cụ thể và phương pháp vận hành
+
+Bằng sáng chế này mô tả một **thiết bị tự động chụp ảnh hoặc quay video tại những khoảnh khắc đặc biệt** cùng với **phương pháp vận hành** thiết bị đó.
+
+Nội dung chính bao gồm:
+
+1. **Thiết bị trang bị cảm biến và camera** có khả năng theo dõi và nhận diện các điều kiện hoặc sự kiện đặc biệt trong môi trường hoặc hành động của người dùng.
+    
+2. **Phương pháp tự động chụp:**
+    
+    - Thiết bị liên tục giám sát các tín hiệu, như chuyển động, biểu cảm khuôn mặt, âm thanh, hoặc các sự kiện định trước.
+        
+    - Khi phát hiện khoảnh khắc “đặc biệt” (ví dụ: cử chỉ, nụ cười, sự kiện bất ngờ), thiết bị tự động kích hoạt chụp ảnh hoặc quay video mà không cần sự can thiệp thủ công.
+        
+3. **Xử lý và lưu trữ:** Ảnh hoặc video được lưu lại một cách có tổ chức, có thể kèm theo các thông tin meta như thời gian, địa điểm hoặc trạng thái cảm xúc.
+    
+4. **Tương tác người dùng:** Người dùng có thể thiết lập tiêu chí nhận diện khoảnh khắc, hoặc xem lại, chỉnh sửa nội dung đã chụp/quay.
+    
+
+Tóm lại, thiết bị này giúp người dùng **ghi lại những khoảnh khắc quan trọng một cách tự động và tiện lợi**, tối ưu trải nghiệm chụp ảnh/video mà không cần thao tác thủ công liên tục.
+
+[Device for automatically capturing photo or video about specific moment, and operation method thereof](https://patents.google.com/patent/US11977981B2/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a7123a60b0%3Aa34%3Ab0d008de)
+### 6. Thiết bị bán dẫn và phương pháp chế tạo
+
+#### 6.1 Thiết bị bán dẫn và phương pháp chế tạo thiết bị bán dẫn
 
 Bằng sáng chế này mô tả một **thiết bị bán dẫn (semiconductor device)** và **phương pháp sản xuất** thiết bị đó.
 
@@ -351,7 +375,7 @@ Tóm lại, đây là sáng chế liên quan đến việc **thiết kế và ch
 
 [Semiconductor device and method of manufacturing semiconuctor device](https://patents.google.com/patent/EP4543163A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a711d4ff90%3A97a%3Aee43411f)
 
-#### 5.2 Thiết bị bán dẫn và phương pháp chế tạo
+#### 6.2 Thiết bị bán dẫn và phương pháp chế tạo
 
 Bằng sáng chế này liên quan đến một **thiết bị bán dẫn (semiconductor device)** và **phương pháp sản xuất thiết bị đó**.
 
@@ -379,30 +403,7 @@ Nội dung chính bao gồm:
 **Tóm lại:** Bằng sáng chế đề cập đến một thiết bị bán dẫn cùng với quy trình sản xuất tối ưu, giúp nâng cao chất lượng và hiệu năng của linh kiện điện tử.
 
 [Semiconductor device and method for manufacturing the same](https://patents.google.com/patent/US20160163637A1/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a712c77db0%3Aa82%3A6aa7ef36)
-### 6. Thiết bị tự động chụp ảnh/video
 
-#### 6.1 Thiết bị tự động chụp ảnh hoặc quay video tại khoảnh khắc cụ thể và phương pháp vận hành
-
-Bằng sáng chế này mô tả một **thiết bị tự động chụp ảnh hoặc quay video tại những khoảnh khắc đặc biệt** cùng với **phương pháp vận hành** thiết bị đó.
-
-Nội dung chính bao gồm:
-
-1. **Thiết bị trang bị cảm biến và camera** có khả năng theo dõi và nhận diện các điều kiện hoặc sự kiện đặc biệt trong môi trường hoặc hành động của người dùng.
-    
-2. **Phương pháp tự động chụp:**
-    
-    - Thiết bị liên tục giám sát các tín hiệu, như chuyển động, biểu cảm khuôn mặt, âm thanh, hoặc các sự kiện định trước.
-        
-    - Khi phát hiện khoảnh khắc “đặc biệt” (ví dụ: cử chỉ, nụ cười, sự kiện bất ngờ), thiết bị tự động kích hoạt chụp ảnh hoặc quay video mà không cần sự can thiệp thủ công.
-        
-3. **Xử lý và lưu trữ:** Ảnh hoặc video được lưu lại một cách có tổ chức, có thể kèm theo các thông tin meta như thời gian, địa điểm hoặc trạng thái cảm xúc.
-    
-4. **Tương tác người dùng:** Người dùng có thể thiết lập tiêu chí nhận diện khoảnh khắc, hoặc xem lại, chỉnh sửa nội dung đã chụp/quay.
-    
-
-Tóm lại, thiết bị này giúp người dùng **ghi lại những khoảnh khắc quan trọng một cách tự động và tiện lợi**, tối ưu trải nghiệm chụp ảnh/video mà không cần thao tác thủ công liên tục.
-
-[Device for automatically capturing photo or video about specific moment, and operation method thereof](https://patents.google.com/patent/US11977981B2/en?inventor=Jiwon+Jeong,Wonwoo+Lee,Gunill+LEE,Deokho+Kim&assignee=Samsung+Electronics+Co.%2cLtd.&num=100&sort=new&peid=636a7123a60b0%3Aa34%3Ab0d008de)
 ### 7. Thiết bị cơ khí (ngăn kéo)
 
 #### 7.1 Thiết bị ngăn kéo
